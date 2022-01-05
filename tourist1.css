@@ -1,0 +1,54 @@
+.dau{
+    margin: 15px;
+    display: flex;
+}
+.ngan{
+    display: flex;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.ngan h4{
+  padding-top: 3px;
+    padding-left: 5px;
+}
+ul{
+    margin: 20px;
+    list-style-type: square ;
+    color: red;
+}
+
+
+.ngan h4{
+    color: blue;
+}
+h3{color: blue;}
+a{
+    text-decoration: none;
+}
+.cuoi{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.caa{
+    border: 2px solid black;
+    padding: 10px;
+    box-shadow: 8px 8px grey;
+    overflow: hidden;
+    text-align: center;
+}
+.caa img{
+
+width: 280px;
+height: 200px;
+margin-top: 5px;
+margin-bottom: 5px;
+
+border-radius: 20px;
+}
+.caa img:hover{
+    transform: scale(1.1);
+    
+}

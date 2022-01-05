@@ -1,0 +1,10 @@
+.khung{
+    display: flex;
+    justify-content: space-around;
+}
+.left{
+  margin: 20px;
+}
+.right{
+    margin: 20px;
+}

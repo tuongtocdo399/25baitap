@@ -1,0 +1,56 @@
+.ngan{
+    display: flex;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.ngan h4{
+  padding-top: 3px;
+  color: blue;
+    padding-left: 5px;
+}
+.dau{
+    display: flex;
+    margin: 10px;
+}
+h3{
+    color: blue;
+}
+.ng{
+    display: flex;
+    justify-content: space-around;
+    color: blue;
+    background-color: rgb(223, 216, 216);
+}
+.aa{ display: flex;
+justify-content: space-evenly;
+}
+table{
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+td , tr  {
+border: 1px solid black;
+text-align: center;
+color: blue;
+font-size: 18px;
+}
+th{
+    background-color: gray;
+   color: green;
+}
+
+.cuoi{
+    text-align: center;
+    margin-top: 20px;
+}
+table img{ 
+   
+    width: 280px;
+    height: 200px;
+}
+.dau img.hoa{
+    width: 50px;
+}

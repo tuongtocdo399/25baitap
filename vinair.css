@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.dau{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    background-color: rgb(4, 4, 128);
+
+}
+.dau img{
+    width: 200px;
+}
